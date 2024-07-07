@@ -1,0 +1,303 @@
+/* Extra small devices (portrait phones, less than 576px)*/ 
+@media (max-width: 575.98px) {
+	/*	header start*/
+	header {
+    padding: 5px 0;
+}
+.logo {
+    width: 150px;
+}
+.menu ul li a {
+    margin-bottom: 5px;
+    padding: 0 12px !important;
+}
+.btn-sign {
+    padding: 7px 23px 7px 23px;
+  }
+  .btn-sign:last-child {
+    margin-left: 0;
+}
+/*banner start*/
+.b-img {
+    padding: 0 0;
+}
+.b-text {
+    padding: 25px 0 0;
+    text-align: center;
+}
+.bh1 {
+    line-height: 40px;
+    padding: 0 0 0;
+}
+.bh1 {
+     margin: 5px 0 10px;
+}
+.bh1 {
+    font-size: 33px;
+}
+.bp2 {
+    line-height: 30px;
+    padding: 0 0;
+}
+/*banner end*/
+/*feature section start*/
+.feature{
+    margin: 0 0 50px;
+}
+.f-single {
+    margin-top: 20px;
+    text-align: center;
+    padding: 40px 0 35px;
+
+}
+.f-img {
+    width: 45px;
+    height: 65px;
+}
+.f-h2 {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 10px 0 0;
+}
+/*course start*/
+.course {
+    margin: 50px 0 30px;
+}
+.oc-text h2 {
+    font-size: 23px;
+    line-height: 30px;
+}
+
+.left {
+    float: none;
+}
+.right {
+    float: none;
+}
+.course-btn {
+    margin: 17px 0 25px;
+    
+}
+.c-single {
+    margin-top: 55px;
+    padding: 20px 20px 25px 20px;
+  
+}
+.c-single h3 {
+    font-size: 22px;
+    line-height: 30px;
+    margin: 15px 0 5px;
+}
+.course-btn {
+    margin: 13px 0 20px;
+    }
+.course-btn {
+    Padding: 6px 20px 6px 20px;
+}
+.c-single {
+    margin-top: 40px;
+    padding: 18px 17px 20px 17px;
+}
+/*testimonial*/
+.t-img img {
+    padding: 0 40px 15px;
+}
+.t-text {
+    text-align: center;
+}
+.testimonial {
+    padding: 40px 0 30px;
+}
+.t-text p {
+    line-height: 25px;
+}
+
+
+
+
+	
+}
+
+/* Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*	header start*/
+	header {
+    padding: 5px 0;
+}
+.logo {
+    width: 170px;
+}
+.menu ul li a {
+    margin-bottom: 5px;
+    padding: 0 12px !important;
+}
+.btn-sign {
+    padding: 7px 23px 7px 23px;
+  }
+  .btn-sign:last-child {
+    margin-left: 0;
+}
+/*banner start*/
+.b-img {
+    padding: 0 35px;
+}
+.b-text {
+    padding: 40px 0 0;
+    text-align: center;
+}
+.bh1 {
+    font-size: 44px;
+    line-height: 55px;
+    padding: 0 25px 0;
+}
+.bh1 {
+     margin: 10px 0 10px;
+}
+.bp2 {
+    padding: 0 10px;
+}
+
+/*banner end*/
+/*feature section start*/
+.feature{
+    margin: 0 0 60px;
+}
+.f-single {
+    margin-top: 30px;
+    text-align: center;
+    padding: 50px 0 45px;
+
+}
+.f-img {
+    width: 55px;
+    height: 75px;
+}
+.f-h2 {
+    font-size: 20px;
+    line-height: 30px;
+	
+}
+/*course start*/
+.course {
+    margin: 70px 0 50px;
+}
+.oc-text h2 {
+    font-size: 25px;
+    line-height: 35px;
+}
+/*testimonial*/
+.t-img img {
+    padding: 0 130px 20px;
+}
+.t-text {
+    text-align: center;
+}
+.testimonial {
+    padding: 50px 0 39px;
+}
+.t-text p {
+    line-height: 27px;
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/ 
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*	header start*/
+	header {
+    padding: 5px 0;
+}
+.menu ul li a {
+    margin-bottom: 5px;
+    padding: 0 12px !important;
+}
+.btn-sign {
+    padding: 7px 23px 7px 23px;
+  }
+.btn-sign:last-child {
+    margin-left: 0;
+}
+/*header end*/
+/*banner start*/
+.b-img {
+    padding: 0 50px;
+}
+.b-text {
+    padding: 40px 0 0;
+    text-align: center;
+}
+.bh1 {
+    line-height: 65px;
+    padding: 0 85px 0;
+}
+.bp2 {
+    padding: 0 70px;
+}
+.b-text {
+    text-align: center;
+}
+.f-h2 {
+    margin: 15px 0 0;
+}
+/*course start*/
+.course {
+    margin: 80px 0 60px;
+}
+.oc-text h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+/*testimonial*/
+.testimonial {
+    padding: 50px 0 40px;
+}
+.course {
+    margin: 80px 0 20px;
+ }
+	
+}
+
+/* Large devices (desktops, 992px and up)*/ 
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.b-text {
+    padding: 30px 0 0;
+}
+.bh1 {
+    font-size: 45px;
+    line-height: 55px;
+    padding: 0 50px 0 0;
+}
+.bh1 {
+    margin: 10px 0 15px;
+}
+/*course start*/
+.left {
+    float: none;
+}
+.right {
+    float: none;
+}
+.course-btn {
+    margin: 17px 0 25px;
+    
+}
+.c-single {
+    margin-top: 55px;
+    padding: 20px 20px 25px 20px;
+  
+}
+	
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .bh1 {
+    padding: 0 30px 0 0;
+}
+.b-text {
+    padding: 40px 0 0;
+}
+	
+}
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { ... }
